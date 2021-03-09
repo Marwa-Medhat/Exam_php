@@ -1,0 +1,10 @@
+Q: Getting a user IP address can be done by $_SERVER array.
+True
+Q: What is not a super global variable of the following : 
+D) $_PUT
+Q: A function to check the existance of a variable : 
+B) isset
+Q: A function to search an array : 
+B) in_array
+Q: A function to iterate an array applying a method to all its members: 
+C) map_array
